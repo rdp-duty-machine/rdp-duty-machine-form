@@ -16,3 +16,4 @@ TOKEN: xxxxxxxx #你的github api token，需要有repo权限
 REPO: rdp-duty-machine/rdp-duty-machine # fork后的repo名
 ```
 4. 在vercel的build histories里点击redeploy，使配置的环境变量生效。如果不能触发部署，可以尝试添加一个commit来触发部署。
+
