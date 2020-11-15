@@ -1,6 +1,6 @@
 ### 这是什么？
 
-这是[duty-machine仓库](https://github.com/duty-machine/duty-machine)所使用的匿名表单，用来在线提交需要抓取的链接。
+这是[rdp-duty-machine仓库](https://github.com/rdp-duty-machine/rdp-duty-machine)所使用的匿名表单，用来在线提交需要抓取的链接。
 
 ### 这个表单如何保证提交者的匿名性？
 
